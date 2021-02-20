@@ -1,10 +1,10 @@
 # Um Brasil em chamas
 ---
-- Análise completa em "**queimadas_brasil.ipynb**".
-
 Este projeto foi o primeiro criado para a composição de meu portfólio. 
 
 Após me capacitar com as aulas do *DataCamp*, senti que precisava colocar em prática o que havia aprendido, pelo menos a parte da **análise descritiva**. Então fui procurar algum conjunto de dados interessante no *Kaggle* e acabei encontrando este, cujo assunto é sobre as **queimadas no Brasil**. Este é algo bem polêmico e pode acabar trazendo sérios problemas, não só para o próprio país, mas para toda a humanidade!
+
+- Análise completa em "**queimadas_brasil.ipynb**".
 
 Observação: para melhorar a visualização de algumas imagens, por conta da resolução que foi comprometida, recomendo clicar em "Open in Colab", no começo do *notebook*.
 
